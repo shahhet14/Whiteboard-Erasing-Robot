@@ -7,3 +7,4 @@ This code was used to program a LEGO EV3 robot to erase all whiteboard markings 
 - follows a specific path designed to be able to reach all areas of a whiteboard (inspired by the path an ice resurfacer follows around an ice rink)
 - can calibrate it path according to the size of any rectangluar whiteboard it is being used on
 - can detect if it has travelled away from its desired path or has encoutered an obstacle 
+- erases all whiteboard markings of a desired color setting (Blue, Red, Black or Any color)
